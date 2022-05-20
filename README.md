@@ -1,4 +1,4 @@
-# Adversarial Focal Loss: <\br>Asking Your Discriminator for Hard Examples
+# Adversarial Focal Loss: <br>Asking Your Discriminator for Hard Examples
 
 ## TLDR
 We proposed a generalizable adaptation of Focal Loss to keypoint detection leveraging difficulty scores from a discriminator.
