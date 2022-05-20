@@ -7,4 +7,4 @@ Under Review at NeurIPS 2022.
 
 ## Paper
 
-<object data="paper/AFL_20220519.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../paper/AFL_20220519.pdf" width="1000" height="1000" type='application/pdf'></object>
