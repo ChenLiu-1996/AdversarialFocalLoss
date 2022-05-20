@@ -8,11 +8,14 @@ Under Review at NeurIPS 2022.
 ## Paper
 Full PDF can be found [here](https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf)
 
-### Non-technical Overview and Abstract
+## Citation
+To be added when de-anonymization is appropriate.
+
+## Non-technical Overview and Abstract
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_01.png" width="800"/>
 
-### Design
+## Design
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_02.png" width="800"/>
 
-### Difficulty Score
+## Difficulty Score
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_03.png" width="800"/>
