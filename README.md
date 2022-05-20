@@ -6,6 +6,5 @@ We proposed a generalizable adaptation of Focal Loss to keypoint detection lever
 Under Review at NeurIPS 2022.
 
 ## Paper
-<object width="400" height="500" type="application/pdf" data="paper/AFL_20220519.pdf">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
+
+<object data="paper/AFL_20220519.pdf" width="1000" height="1000" type='application/pdf'></object>
