@@ -9,7 +9,7 @@ Full PDF (anonymized) can be found [here](https://github.com/ChenRaphaelLiu/Adve
 ## Citation
 To be added when de-anonymization is appropriate.
 
-## Non-technical Overview and Abstract
+## Overview and Abstract
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_01.png" width="800"/>
 
 ## Design
