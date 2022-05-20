@@ -7,7 +7,7 @@ Under Review at NeurIPS 2022.
 Full PDF (anonymized) can be found [here](https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf)
 
 ## Citation
-To be added when de-anonymization is appropriate.
+Will be added when de-anonymization is deemed appropriate.
 
 ## Overview and Abstract
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_01.png" width="800"/>
@@ -17,3 +17,6 @@ To be added when de-anonymization is appropriate.
 
 ## Difficulty Score
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_03.png" width="800"/>
+
+## Implementation
+Will be added when de-anonymization is deemed appropriate.
