@@ -7,5 +7,5 @@ Under Review at NeurIPS 2022.
 
 ## Paper
 
-<a href="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf" target="_blank">PDF.</a>
+<embed src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf" type="application/pdf" />
 
