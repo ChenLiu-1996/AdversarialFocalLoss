@@ -24,5 +24,4 @@ Paper can be found [here](https://arxiv.org/pdf/2207.07739.pdf)
 ## Difficulty Score
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_03.png" width="800"/>
 
-## Implementation
-Will be added when de-anonymization is deemed appropriate.
+
