@@ -4,10 +4,17 @@ We proposed a generalizable adaptation of Focal Loss to keypoint detection lever
 Under Review at NeurIPS 2022.
 
 ## Paper
-Full PDF (anonymized) can be found [here](https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf)
+Paper can be found [here](https://arxiv.org/pdf/2207.07739.pdf)
 
 ## Citation
-Will be added when de-anonymization is deemed appropriate.
+```
+@article{liu2022adversarial,
+  title={Adversarial Focal Loss: Asking Your Discriminator for Hard Examples},
+  author={Liu, Chen and Dong, Xiaomeng and Potter, Michael and Chang, Hsi-Ming and Soni, Ravi},
+  journal={arXiv preprint arXiv:2207.07739},
+  year={2022}
+}
+```
 
 ## Overview and Abstract
 <img src="https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/github_display_01.png" width="800"/>
