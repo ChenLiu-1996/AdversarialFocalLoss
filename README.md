@@ -1,7 +1,6 @@
 # Adversarial Focal Loss: <br>Asking Your Discriminator for Hard Examples
 We proposed a generalizable adaptation of Focal Loss to keypoint detection leveraging difficulty scores from a discriminator.
 
-Under Review at NeurIPS 2022.
 
 ## Paper
 Paper can be found [here](https://arxiv.org/pdf/2207.07739.pdf)
